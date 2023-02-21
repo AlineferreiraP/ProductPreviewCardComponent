@@ -1,0 +1,70 @@
+.flex-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(233, 222, 222) !important;
+
+    
+   
+    
+    
+}
+.flex-item1 {
+    background-color: white;
+    height: 9.56cm;
+    width: 6cm;
+    padding: 1cm;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+
+#perfume {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 14px;
+    margin-top: 0%;
+    
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #1c1c1c;
+    
+}
+
+#descricao {
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    background-color: rgb(27, 105, 61);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    padding-left: 60px ;
+    padding-right: 60px;
+    border-radius: 10px;
+}
+
+img {
+    height: 11.5cm;
+    align-items: center;
+    
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#preco {
+    color: rgb(25, 138, 76);
+
+    
+}
+
+s {
+    font-size: 11px;
+    color: gray;
+    
+}
